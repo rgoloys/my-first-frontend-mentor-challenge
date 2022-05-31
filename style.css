@@ -1,0 +1,83 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    color: #5dade2;
+    font-size: 16px;
+  }
+  .bg {
+    width: cover;
+    height: cover;
+    position: relative;
+  }
+  .wrapper {
+    margin: 33%;
+    margin-top: -375px;
+    position: absolute;
+    border-radius: 12px;
+    border: 1px solid white;
+    background: white;
+    width: 400px;
+  }
+  .sec-pages h2 {
+    text-align: center;
+    color: blue;
+  }
+  .sec-pages p {
+    text-align: center;
+  }
+  .pay {
+    background: #d7dbdd;
+    height: 55px;
+    width: 350px;
+    margin-left: 25px;
+    border-radius: 15px;
+  }
+  .pay img {
+    margin-left: 22px;
+    margin-top: 1px;
+    position: relative;
+  }
+  .pay h4 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: -45px;
+  }
+  .pay p {
+    margin-left: 100px;
+    position: relative;
+    margin-top: -15px;
+  }
+  .pay a {
+    float: right;
+    margin-right: 22px;
+    margin-top: -50px;
+  }
+  .payment {
+    color: white;
+    background: #3498db;
+    width: 350px;
+    height: 50px;
+    margin-left: 25px;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+  .payment p {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 30px;
+    position: relative;
+  }
+  .cancel {
+    color: #3498db;
+    background: white;
+    width: 350px;
+    height: 50px;
+    margin-left: 25px;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .cancel p {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+  }
